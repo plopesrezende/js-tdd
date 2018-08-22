@@ -1,0 +1,25 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "JS TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plopesrezende/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "npm",
+    "git"
+  ],
+  "author": "Paulo Ricardo Rezende",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plopesrezende/js-tdd/issues"
+  },
+  "homepage": "https://github.com/plopesrezende/js-tdd#readme"
+}
