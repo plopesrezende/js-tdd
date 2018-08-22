@@ -2,7 +2,7 @@
 const teste = 'a';
 function testeF(rua) {
   if (teste === rua) {
-    return true;
+    return true
   }
   return false;
 }
