@@ -21,5 +21,13 @@
   "bugs": {
     "url": "https://github.com/plopesrezende/js-tdd/issues"
   },
-  "homepage": "https://github.com/plopesrezende/js-tdd#readme"
+  "homepage": "https://github.com/plopesrezende/js-tdd#readme",
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1"
+  }
 }
