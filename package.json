@@ -4,6 +4,7 @@
   "description": "JS TDD",
   "main": "index.js",
   "scripts": {
+    "precommit": "run lint",
     "lint": "eslint src/*.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
